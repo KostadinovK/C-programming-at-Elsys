@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510399894 source:d:\c\numbers_in_range\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
