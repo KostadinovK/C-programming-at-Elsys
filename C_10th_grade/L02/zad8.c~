@@ -1,0 +1,14 @@
+//smallest five elements of an array
+#include <stdio.h>
+
+void smallest(int[]);
+
+int main(){
+	int a[9];
+	int i;
+	for(i=0;i<=9;i++){
+		printf("a[%d]: ",i);
+		scanf("");
+	}
+	return 0;
+}
