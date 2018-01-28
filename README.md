@@ -1,2 +1,2 @@
 # C
-a little piece of my C work
+C programming at elsys(tues) in 9th and 10th grade
