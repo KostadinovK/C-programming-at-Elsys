@@ -1,2 +1,2 @@
 # C
-C programming at elsys(tues) in 9th and 10th grade
+C programming at ELSYS(TUES) in 9th and 10th grade
